@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1743045068 source:d:\apps\tools\codeblocks\projects\test4.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<chrono>
+
